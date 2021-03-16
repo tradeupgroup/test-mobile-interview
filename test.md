@@ -47,14 +47,14 @@ Para simular um backend, utilize o módulo [JSON-Server](https://github.com/typi
 
 ## Tarefas
 
-- [ ] Deve ser criado um arquivo readme.md e colocado junto ao projeto, deve contar instruções de como compilar o aplicativo para rodar no simulado ou emulador.
-- [ ] Deve ser criado uma tela inicial com um botão, que quando pressionado deve navegar para a página de contatos.
-- [ ] A página de contatos deve apresentar uma lista com os nomes e cargos dos contatos.
-- [ ] Ao clicar em um contato deve ser possível ver todos os dados do contato.
-- [ ] Deve ser possível criar, editar, deletar um contato
-- [ ] Você pode criar uma maneira de filtrar contatos, sendo possível procurar por nome, email, telefone.
-- [ ] Você pode validar os campos de entrada e exibir uma mensagem sobre o motivo pelo qual não passou na validação.
-- [ ] Você pode escrever testes unitários.
+- [ ] - Deve ser criado um arquivo readme.md e colocado junto ao projeto, deve contar instruções de como compilar o aplicativo para rodar no simulado ou emulador.
+- [ ] - Deve ser criado uma tela inicial com um botão, que quando pressionado deve navegar para a página de contatos.
+- [ ] - A página de contatos deve apresentar uma lista com os nomes e cargos dos contatos.
+- [ ] - Ao clicar em um contato deve ser possível ver todos os dados do contato.
+- [ ] - Deve ser possível criar, editar, deletar um contato
+- [ ] - Você pode criar uma maneira de filtrar contatos, sendo possível procurar por nome, email, telefone.
+- [ ] - Você pode validar os campos de entrada e exibir uma mensagem sobre o motivo pelo qual não passou na validação.
+- [ ] - Você pode escrever testes unitários.
 
 #### Design
 
@@ -64,7 +64,7 @@ O design pode ser o que você quiser, mas se precisar de ajuda pode levar como b
 
 ## Diferenciais
 
-- [ ] Typescript
-- [ ] Context, Redux, Redux-Thunk ou Redux-Saga
-- [ ] Hooks e Hooks Personalizados
-- [ ] Tratamento de possíveis erros de API Rest (401, 404, 500)
+- [ ] - Typescript
+- [ ] - Context, Redux, Redux-Thunk ou Redux-Saga
+- [ ] - Hooks e Hooks Personalizados
+- [ ] - Tratamento de possíveis erros de API Rest (401, 404, 500)
