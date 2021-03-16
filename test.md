@@ -36,7 +36,7 @@ Para simular um backend, utilize o módulo [JSON-Server](https://github.com/typi
       "id": "3",
       "company": "Nome da Companhia 3",
       "name": "Nome Completo 3",
-      "email": "email3@gmail.com",inter
+      "email": "email3@gmail.com",
       "role": "Diretor",
       "phone": "(33)98765-4323",
       "contactAdmin": false
